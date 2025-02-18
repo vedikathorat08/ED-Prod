@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import logo from "../assests/edclogo.png";
+import logo from "../assests/EDCLOGO.jpg";
 import { Link } from "react-scroll";
 
 

@@ -1,6 +1,6 @@
 import React from "react";
 import Achievement from "../components/Achivement";
-import achievementImage from "../assests/nec.jpeg";
+import achievementImage from "../assests/NEC.jpg";
 import venturers from "../assests/bgimg.jpg"
 import Picture10 from "../assests/Venturers23/Picture10.jpg"
 import Picture2 from "../assests/Venturers23/Picture2.jpg"
